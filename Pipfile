@@ -9,6 +9,7 @@ graphene = "*"
 fastapi = "*"
 dnspython = "*"
 starlette-graphene3 = "*"
+uvicorn = "*"
 
 [dev-packages]
 black = "*"
