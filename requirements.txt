@@ -9,13 +9,14 @@
 aniso8601==9.0.1
 anyio==3.5.0; python_full_version >= '3.6.2'
 dnspython==2.2.0
-fastapi==0.73.0
+fastapi==0.74.0
 graphene==3.0
-graphql-core==3.1.7; python_version >= '3.6' and python_version < '4'
-graphql-relay==3.1.5; python_version >= '3.6' and python_version < '4'
+graphql-core==3.1.7; python_version >= '3.6' and python_version < '4.0'
+graphql-relay==3.1.5; python_version >= '3.6' and python_version < '4.0'
 idna==3.3; python_version >= '3.5'
 pydantic==1.9.0; python_full_version >= '3.6.1'
 pymongo==4.0.1
 sniffio==1.2.0; python_version >= '3.5'
+starlette-graphene3==0.5.1
 starlette==0.17.1; python_version >= '3.6'
-typing-extensions==4.1.0; python_version >= '3.6'
+typing-extensions==4.1.1; python_version >= '3.6'

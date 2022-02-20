@@ -8,6 +8,7 @@ pymongo = "*"
 graphene = "*"
 fastapi = "*"
 dnspython = "*"
+starlette-graphene3 = "*"
 
 [dev-packages]
 black = "*"
